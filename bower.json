@@ -9,7 +9,7 @@
   "install" : {
     "path" : "some/path",
     "sources" : {
-      "requirejs" : "components/requirejs/require.js"
+      "angular" : "components/angular/angular.js"
     }
   }
 }
