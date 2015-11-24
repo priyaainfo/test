@@ -5,11 +5,7 @@
     "backbone" : "latest",
     "requirejs" : "latest",
      "angular" : "latest"
-  },
-  "install" : {
-    "path" : "some/path",
-    "sources" : {
-      "angular" : "components/angular/angular.js"
-    }
   }
+  
+ 
 }
