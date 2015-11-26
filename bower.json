@@ -9,12 +9,12 @@
   "license": "MIT",
   "private": true,
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests",
-    "package.json"
+    "package.json",
+    "src"
   ],
   "devDependencies": {
     "jquery": "~2.1.1"
