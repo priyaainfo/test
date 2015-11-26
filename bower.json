@@ -17,7 +17,8 @@
     "src",
     "README.md"
   ],
-  "devDependencies": {
-    "jquery": "~2.1.1"
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular":"*"
   }
 }
