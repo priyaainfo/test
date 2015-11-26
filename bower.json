@@ -8,7 +8,13 @@
   "main": "index.html",
   "license": "MIT",
   "private": true,
-  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "devDependencies": {
     "jquery": "~2.1.1"
   }
