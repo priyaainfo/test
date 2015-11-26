@@ -1,11 +1,20 @@
 {
-  "name" : "test",
-  "version": "0.1",
-  "dependencies" : {
-    "backbone" : "latest",
-    "requirejs" : "latest",
-     "angular" : "latest"
+  "name": "bower-example",
+  "version": "0.0.0",
+  "authors": [
+    "author <author@example.com>"
+  ],
+  "description": "An example project using bower.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1"
   }
-  
- 
 }
