@@ -15,7 +15,6 @@
     "tests",
     "package.json",
     "src",
-    "bower.json",
     "README.md"
   ],
   "devDependencies": {
