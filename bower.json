@@ -14,7 +14,9 @@
     "test",
     "tests",
     "package.json",
-    "src"
+    "src",
+    "bower.json",
+    "README.md"
   ],
   "devDependencies": {
     "jquery": "~2.1.1"
